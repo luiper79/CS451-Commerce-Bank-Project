@@ -1,8 +1,6 @@
-<p align="center"><<img src="https://github.com/luiper79/CS451-Commerce-Bank-Project/blob/master/Documents/Photos/UMKC.jpg" width="350" height="150">
-<img src="https://github.com/luiper79/CS451-Commerce-Bank-Project/blob/master/Documents/Photos/CommerceBank.jpg" width="350" height="150">></p> 
+<p align="center"><<img src="https://github.com/luiper79/CS451-Commerce-Bank-Project/blob/master/Documents/Photos/UMKCcommerceBank.png" width="750" height="450">></p> 
 
-# **Welcome To Commerce Bank Website**
-# **For CS-451 Software Engineering**<br/>
+
 
 ## **•Team Members:**<br/>
 Parnian Habibi, Daniel Bae, Anh Nguyen, and Luis Usseglio.
