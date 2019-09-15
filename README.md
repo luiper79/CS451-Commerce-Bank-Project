@@ -4,10 +4,13 @@
 # **Welcome To Commerce Bank Website**
 # **For CS-451 Software Engineering**<br/>
 
-## **High Level Overview**<br/>
+## **•Team Members:**<br/>
+Parnian Habibi, Daniel Bae, Anh Nguyen, and Luis Usseglio.
+
+## **•High Level Overview:**<br/>
 A web application that pulls in transaction details (we will provide sample data) and allows the user to set alerts/business rules and receive notifications around them.  The system should also save data to a database so recurring reports can be created.
 
-## **Requirements**<br/>
+## **•Requirements:**<br/>
 1.	Must be a web application built in a “newer” web development framework
 a.	.Net preferably – if you choose another framework, support from us will be limited
 2.	Client side framework/libraries are up to you but must be included in project (aka no external resources)
@@ -40,7 +43,7 @@ ii.	Ability to hide alerts where the times tripped is zero
 b.	Ability to pull/compare business rule different timeframes
 c.	Ability to export to spreadsheet
 
-## **Stretch Goals**<br/>
+## **•Stretch Goals:**<br/>
 1.	Unit testing
 2.	Deploy the project into a windows server/cloud instance
 a.	Practice configuration properties for different environments
@@ -50,7 +53,7 @@ a.	Practice configuration properties for different environments
 6.	Use version control throughout the project
 7.	Security scan your application. OWASP ZAP is a good open source option.
 
-## **During final presentation, we would like to see the following:**<br/>
+## **•During final presentation, we would like to see the following:**<br/>
 -	 Working application:<br/>
  o	 Home Page<br/>
  o   Ability to set up business rules<br/>
@@ -64,7 +67,7 @@ a.	Practice configuration properties for different environments
  o   What did you do to overcome them?<br/>
  o	 Suggestions for future projects<br/>
 
-## **Suggestions:**<br/>
+## **•Suggestions:**<br/>
  •   Ask questions when you don’t understand something.<br/>
  •   Feel free to modify the project data we send to fit your needs.<br/>
  •   Start early. Things that don’t seem like they’ll take long usually do.<br/>
