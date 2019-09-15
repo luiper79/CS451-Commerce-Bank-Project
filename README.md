@@ -60,9 +60,9 @@ o	Did you experience any setbacks? What did you do to overcome them?
 o	Suggestions for future projects
 
 ## **Suggestions:**<br/>
-•	Ask questions when you don’t understand something.
-•	Feel free to modify the project data we send to fit your needs.
-•	Start early. Things that don’t seem like they’ll take long usually do.
-•	Split the work. One person shouldn’t be doing everything.
-•	Keep it simple. Less is more sometimes.
-•	The ol’ “Most of all, have fun” bullet-point.
+•	Ask questions when you don’t understand something.<br/>
+•	Feel free to modify the project data we send to fit your needs.<br/>
+•	Start early. Things that don’t seem like they’ll take long usually do.<br/>
+•	Split the work. One person shouldn’t be doing everything.<br/>
+•	Keep it simple. Less is more sometimes.<br/>
+•	The ol’ “Most of all, have fun” bullet-point.<br/>
