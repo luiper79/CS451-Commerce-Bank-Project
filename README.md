@@ -1,4 +1,5 @@
-<p align="center"><img src="https://github.com/luiper79/CS451-Commerce-Bank-Project/blob/master/Documents/Photos/UMKCcommerceBank.png" width="750" height="450"></p>
+<p align="center"><img src="https://github.com/luiper79/CS451-Commerce-Bank-Project/blob/master/Documents/Photos/UMKCcommerceBank.png" width="750" height="400"></p>
+
 ## **•Team Members:**<br/>
 Parnian Habibi, Daniel Bae, Anh Nguyen, and Luis Usseglio.
 
