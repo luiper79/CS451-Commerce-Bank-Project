@@ -1,6 +1,5 @@
-<img src="https://github.com/luiper79/CS451-Commerce-Bank-Project/blob/master/Documents/Photos/UMKC.jpg" width="300" height="150">
-
-<img src="https://github.com/luiper79/CS451-Commerce-Bank-Project/blob/master/Documents/Photos/CommerceBank.jpg" width="300" height="150">
+<<img src="https://github.com/luiper79/CS451-Commerce-Bank-Project/blob/master/Documents/Photos/UMKC.jpg" width="400" height="150">
+<img src="https://github.com/luiper79/CS451-Commerce-Bank-Project/blob/master/Documents/Photos/CommerceBank.jpg" width="400" height="150">>
 
 # **Welcome To Commerce Bank Website**<br/>
 # **For CS-451 Software Engineering**<br/>
