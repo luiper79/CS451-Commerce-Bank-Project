@@ -1,10 +1,7 @@
-<p align="center"><<img src="https://github.com/luiper79/CS451-Commerce-Bank-Project/blob/master/Documents/Photos/UMKC.jpg" width="350" height="120">
-<img src="https://github.com/luiper79/CS451-Commerce-Bank-Project/blob/master/Documents/Photos/CommerceBank.jpg" width="350" height="120">></p> 
+<p align="center"><<img src="https://github.com/luiper79/CS451-Commerce-Bank-Project/blob/master/Documents/Photos/UMKC.jpg" width="350" height="150">
+<img src="https://github.com/luiper79/CS451-Commerce-Bank-Project/blob/master/Documents/Photos/CommerceBank.jpg" width="350" height="150">></p> 
 
-<p align="center">
-# **Welcome To Commerce Bank Website** 
-</p>  
-
+# **Welcome To Commerce Bank Website**
 # **For CS-451 Software Engineering**<br/>
 
 ## **High Level Overview**<br/>
