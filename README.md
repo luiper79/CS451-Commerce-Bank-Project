@@ -1,4 +1,7 @@
-# **Welcome Commerce Bank Website**<br/>
+<<img src="https://github.com/luiper79/CS451-Commerce-Bank-Project/blob/master/Documents/Photos/umkc.png" width="400" height="50">
+<img src="https://github.com/luiper79/cs-490-5-Iotrobotics/blob/master/ICP2/Documentation/Diagram.png" width="400" height="50">>
+
+# **Welcome To Commerce Bank Website**<br/>
 # **For CS-451 Software Engineering**<br/>
 
 ## **High Level Overview**<br/>
