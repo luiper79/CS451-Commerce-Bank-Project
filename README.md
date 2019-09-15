@@ -1,8 +1,8 @@
-<<img src="https://github.com/luiper79/CS451-Commerce-Bank-Project/blob/master/Documents/Photos/UMKC.jpg" width="400" height="150">
-<img src="https://github.com/luiper79/CS451-Commerce-Bank-Project/blob/master/Documents/Photos/CommerceBank.jpg" width="400" height="150">>
+<<img src="https://github.com/luiper79/CS451-Commerce-Bank-Project/blob/master/Documents/Photos/UMKC.jpg" width="350" height="120">
+<img src="https://github.com/luiper79/CS451-Commerce-Bank-Project/blob/master/Documents/Photos/CommerceBank.jpg" width="350" height="120">>
 
-# **Welcome To Commerce Bank Website**<br/>
-# **For CS-451 Software Engineering**<br/>
+   # **Welcome To Commerce Bank Website**
+   # **For CS-451 Software Engineering**<br/>
 
 ## **High Level Overview**<br/>
 A web application that pulls in transaction details (we will provide sample data) and allows the user to set alerts/business rules and receive notifications around them.  The system should also save data to a database so recurring reports can be created.
@@ -51,21 +51,23 @@ a.	Practice configuration properties for different environments
 7.	Security scan your application. OWASP ZAP is a good open source option.
 
 ## **During final presentation, we would like to see the following:**<br/>
--	Working application
-o	Home Page
-o	Ability to set up business rules
-o	Alerts trigger when transactions are added and fit criteria
-o	Notifications
-o	Reporting
--	Takeaways
-o	Did you learn anything new?
-o	Did you experience any setbacks? What did you do to overcome them?
-o	Suggestions for future projects
+-	 Working application:<br/>
+ o	 Home Page<br/>
+ o   Ability to set up business rules<br/>
+ o	 Alerts trigger when transactions are added and fit criteria<br/>
+ o	 Notifications<br/>
+ o	 Reporting<br/>
+ 
+-	Takeaways:<br/>
+ o	 Did you learn anything new?<br/>
+ o	 Did you experience any setbacks?<br/>
+ o   What did you do to overcome them?<br/>
+ o	 Suggestions for future projects<br/>
 
 ## **Suggestions:**<br/>
-•	Ask questions when you don’t understand something.<br/>
-•	Feel free to modify the project data we send to fit your needs.<br/>
-•	Start early. Things that don’t seem like they’ll take long usually do.<br/>
-•	Split the work. One person shouldn’t be doing everything.<br/>
-•	Keep it simple. Less is more sometimes.<br/>
-•	The ol’ “Most of all, have fun” bullet-point.<br/>
+ •   Ask questions when you don’t understand something.<br/>
+ •   Feel free to modify the project data we send to fit your needs.<br/>
+ •   Start early. Things that don’t seem like they’ll take long usually do.<br/>
+ •	 Split the work. One person shouldn’t be doing everything.<br/>
+ •	 Keep it simple. Less is more sometimes.<br/>
+ •	 The ol’ “Most of all, have fun” bullet-point.<br/>
