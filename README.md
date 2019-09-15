@@ -1,7 +1,7 @@
 <<img src="https://github.com/luiper79/CS451-Commerce-Bank-Project/blob/master/Documents/Photos/UMKC.jpg" width="350" height="120">
 <img src="https://github.com/luiper79/CS451-Commerce-Bank-Project/blob/master/Documents/Photos/CommerceBank.jpg" width="350" height="120">>
 
-   # **Welcome To Commerce Bank Website**
+<p align="center"># **Welcome To Commerce Bank Website** </p?
    # **For CS-451 Software Engineering**<br/>
 
 ## **High Level Overview**<br/>
