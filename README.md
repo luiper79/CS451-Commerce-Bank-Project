@@ -1,5 +1,6 @@
 # **Welcome Commerce Bank Website**<br/>
 # **For CS-451 Software Engineering**<br/>
+
 ## **High Level Overview**<br/>
 A web application that pulls in transaction details (we will provide sample data) and allows the user to set alerts/business rules and receive notifications around them.  The system should also save data to a database so recurring reports can be created.
 
@@ -28,7 +29,6 @@ b.	Stretch Goal: Messaging center in the app
 i.	Up to your team how to implement this
 c.	Stretchier Goal: Notifications via email or text message
 i.	Up to your team how to implement this
-
 7.	Reporting 
 a.	Dashboard:
 i.	Number of times each alert has been tripped over the past month and year
@@ -37,7 +37,7 @@ ii.	Ability to hide alerts where the times tripped is zero
 b.	Ability to pull/compare business rule different timeframes
 c.	Ability to export to spreadsheet
 
-## ** Stretch Goals**<br/>
+## **Stretch Goals**<br/>
 1.	Unit testing
 2.	Deploy the project into a windows server/cloud instance
 a.	Practice configuration properties for different environments
@@ -47,7 +47,7 @@ a.	Practice configuration properties for different environments
 6.	Use version control throughout the project
 7.	Security scan your application. OWASP ZAP is a good open source option.
 
-During final presentation, we would like to see the following:
+## **During final presentation, we would like to see the following:**<br/>
 -	Working application
 o	Home Page
 o	Ability to set up business rules
