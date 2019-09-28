@@ -1,8 +1,9 @@
 <p align="center"><img src="https://github.com/luiper79/CS451-Commerce-Bank-Project/blob/master/Documents/Photos/UMKCcommerceBank.png" width="750" height="400"></p>
 
-## **•Team Members:**<br/>
-Parnian Habibi, Daniel Bae, Anh Nguyen, and Luis Usseglio.
+Please see our Wiki for more information.
 
+## **•Team Members:**<br/>
+Parnian Habibi, Daniel Bae, Anh Nguyen, and Luis Usseglio. 
 ## **•High Level Overview:**<br/>
 A web application that pulls in transaction details (we will provide sample data) and allows the user to set alerts/business rules and receive notifications around them.  The system should also save data to a database so recurring reports can be created.
 
